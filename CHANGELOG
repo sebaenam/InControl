@@ -1,3 +1,6 @@
+v1.4.4.1
+adding support for newer Unity Version (2017), adding config to change Joystick DeadZones and methods like GetAxisRaw
+
 v1.4.4
 Fixed Unity 5 deprecation.
 

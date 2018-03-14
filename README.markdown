@@ -1,3 +1,8 @@
+## 
+This is a modified (Changes made by me, sebaenam) version of InControl, adding support for newer Unity Versions, adding config to change Joystick DeadZones and methods like GetAxisRaw
+I also remove all the files that i consider unnecessaries (Examples, for example)
+
+
 ## NOTICE
 
 This open source edition of InControl is now discontinued. It will be frozen at version 1.4.4. This repository will remain available, but no new features will be added or significant changes made.
